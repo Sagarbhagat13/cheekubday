@@ -24,7 +24,7 @@ const LoveLetterModal = ({ onClose, onNext }: LoveLetterModalProps) => {
           </div>
           
           <div className="space-y-4 text-gray-700 leading-relaxed">
-            <p className="text-lg">My Dearest Wife,</p>
+            <p className="text-lg">My Dearest Cheeku,</p>
             
             <p>
               On this special day, I want you to know that you are the most incredible woman I have ever known. 
