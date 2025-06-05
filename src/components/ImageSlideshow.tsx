@@ -24,10 +24,16 @@ const ImageSlideshow = ({ onComplete }: ImageSlideshowProps) => {
       caption: 'Cozy moments at home'
     },
     {
-     url: '/images/0e05440b-f48c-49a3-9fe3-6f3847afc251.JPG',
+     url: '/images/0e05440b-f48c-49a3-9fe3-6f3847afc251 2.JPG',
       caption: 'Our peaceful adventures'
     },
-  
+    {
+      url: '/images/IMG_5119 2.JPG',
+      caption: 'Magical evenings together'
+    },
+    {
+      url: '/images/IMG_7162.JPG',
+      caption: 'Our happy place'
     }
   ];
 
