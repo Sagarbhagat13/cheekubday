@@ -57,7 +57,7 @@ const GiftBox = ({ onUnwrapped }: GiftBoxProps) => {
               <div className="absolute inset-0 flex items-center justify-center animate-photo-reveal">
                 <div className="bg-white p-4 rounded-lg shadow-2xl border-4 border-white transform rotate-3 hover:rotate-0 transition-transform duration-300">
                   <img 
-                    src="public/images/IMG_8700.PNG"
+                    src="/images/IMG_8700.PNG" 
                     alt="Special Memory"
                     className="w-48 h-32 object-cover rounded"
                   />
