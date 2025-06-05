@@ -8,7 +8,7 @@ const BirthdayMessage = () => {
         Happy Birthday
       </h1>
       <h2 className="text-4xl md:text-6xl font-light text-white mb-8 animate-fade-in" style={{ animationDelay: '1s' }}>
-        My Beautiful Cheeku
+        My Beautiful Cheeku .
       </h2>
       <div className="text-xl text-pink-200 animate-fade-in" style={{ animationDelay: '2s' }}>
         ✨ Another year of love, laughter, and magic ✨
