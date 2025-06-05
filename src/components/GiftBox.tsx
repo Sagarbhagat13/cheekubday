@@ -61,7 +61,7 @@ const GiftBox = ({ onUnwrapped }: GiftBoxProps) => {
                     alt="Special Memory"
                     className="w-48 h-32 object-cover rounded"
                   />
-                  <p className="text-center text-gray-800 mt-2 font-medium">A Sweet Gift s 💕</p>
+                  <p className="text-center text-gray-800 mt-2 font-medium">A Sweet Memory 💕</p>
                 </div>
               </div>
             )}
