@@ -9,7 +9,7 @@ const MinimalistBirthdayMessage = () => {
           Happy Birthday
         </h1>
         <h2 className="text-3xl md:text-5xl font-extralight text-white/90 mb-8">
-          My Beautiful Wife
+          Samiksha 
         </h2>
       </div>
     </div>

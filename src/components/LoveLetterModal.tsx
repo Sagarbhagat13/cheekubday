@@ -42,14 +42,14 @@ const LoveLetterModal = ({ onClose, onNext }: LoveLetterModalProps) => {
             </p>
             
             <p>
-              Happy Birthday, my beautiful wife. Here's to another year of adventures, laughter, 
+              Happy Birthday, beautiful . Here's to another year of adventures, laughter, 
               and endless love together. You deserve all the happiness in the world, and I'm grateful 
               to be the one who gets to share it with you.
             </p>
             
             <div className="text-center mt-8 space-y-2">
               <p className="text-xl font-semibold text-purple-800">Forever and always yours,</p>
-              <p className="text-2xl font-bold text-pink-600">Your Loving Husband ❤️</p>
+              <p className="text-2xl font-bold text-pink-600">Your Loving Sagar❤️</p>
             </div>
             
             <div className="flex justify-center space-x-4 mt-6">
