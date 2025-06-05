@@ -20,20 +20,14 @@ const ImageSlideshow = ({ onComplete }: ImageSlideshowProps) => {
       caption: 'Your lovely smile'
     },
     {
-     url: '/images/PHOTO-2025-06-04-23-54-27.jpg',
+     url: '/images/IMG_306AD7C639A8-1.jpeg',
       caption: 'Cozy moments at home'
     },
     {
-     url: '/images/IMG_306AD7C639A8-1.jpegG',
+     url: '/images/0e05440b-f48c-49a3-9fe3-6f3847afc251.JPG',
       caption: 'Our peaceful adventures'
     },
-    {
-      url: '/images/PHOTO-2025-06-04-23-54-27.jpg',
-      caption: 'Magical evenings together'
-    },
-    {
-      url: '/images/PHOTO-2025-06-04-23-54-27.jpg',
-      caption: 'Our happy place'
+    caption: 'Our happy place'
     }
   ];
 
