@@ -12,7 +12,7 @@ const ImageSlideshow = ({ onComplete }: ImageSlideshowProps) => {
 
   const images = [
     {
-      url: 'https://images.unsplash.com/photo-1649972904349-6e44c42644a7?w=800&h=600&fit=crop',
+      url: '/images/PHOTO-2025-06-04-23-54-27.jpg',
       caption: 'Beautiful moments together'
     },
     {
