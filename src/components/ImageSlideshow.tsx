@@ -24,7 +24,7 @@ const ImageSlideshow = ({ onComplete }: ImageSlideshowProps) => {
       caption: 'Cozy moments at home'
     },
     {
-     url: /images/IMG_306AD7C639A8-1.jpegG',
+     url: '/images/IMG_306AD7C639A8-1.jpegG',
       caption: 'Our peaceful adventures'
     },
     {
