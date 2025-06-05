@@ -16,23 +16,23 @@ const ImageSlideshow = ({ onComplete }: ImageSlideshowProps) => {
       caption: 'Beautiful moments together'
     },
     {
-      url: 'https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=800&h=600&fit=crop',
+     url: '/images/IMG_4365 2.JPG',
       caption: 'Your lovely smile'
     },
     {
-      url: 'https://images.unsplash.com/photo-1582562124811-c09040d0a901?w=800&h=600&fit=crop',
+     url: '/images/PHOTO-2025-06-04-23-54-27.jpg',
       caption: 'Cozy moments at home'
     },
     {
-      url: 'https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=800&h=600&fit=crop',
+     url: /images/IMG_306AD7C639A8-1.jpegG',
       caption: 'Our peaceful adventures'
     },
     {
-      url: 'https://images.unsplash.com/photo-1500673922987-e212871fec22?w=800&h=600&fit=crop',
+      url: '/images/PHOTO-2025-06-04-23-54-27.jpg',
       caption: 'Magical evenings together'
     },
     {
-      url: 'https://images.unsplash.com/photo-1721322800607-8c38375eef04?w=800&h=600&fit=crop',
+      url: '/images/PHOTO-2025-06-04-23-54-27.jpg',
       caption: 'Our happy place'
     }
   ];
