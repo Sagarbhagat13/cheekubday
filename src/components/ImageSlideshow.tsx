@@ -27,7 +27,7 @@ const ImageSlideshow = ({ onComplete }: ImageSlideshowProps) => {
      url: '/images/0e05440b-f48c-49a3-9fe3-6f3847afc251.JPG',
       caption: 'Our peaceful adventures'
     },
-    caption: 'Our happy place'
+  
     }
   ];
 
